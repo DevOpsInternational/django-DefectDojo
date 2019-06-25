@@ -3,7 +3,6 @@ docker/data/
 docker/static/
 
 # VS Code
-.vscode/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -104,3 +103,5 @@ quick.bash
 
 #visual studio code
 *.code-workspace
+config.bat
+node_modules
